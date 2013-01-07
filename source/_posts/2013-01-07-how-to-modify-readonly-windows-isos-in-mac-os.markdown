@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "How to modify readonly windows .isos in Mac OS"
 date: 2013-01-07 19:04
 comments: true
