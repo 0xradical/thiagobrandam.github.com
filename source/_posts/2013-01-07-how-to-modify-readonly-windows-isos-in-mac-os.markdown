@@ -19,7 +19,7 @@ It will create a blank .dmg file.
 Now, this image should be blank, but writable. Mount the
 blank image, mount the windows .iso and
 copy the original .iso contents into the blank image, modifying
-what need to be modified.
+what needs to be modified.
 
 After these steps, fire up Terminal and enter:
 
