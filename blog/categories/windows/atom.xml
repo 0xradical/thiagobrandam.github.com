@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://thiagobrandam.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Windows | My Octopress Blog]]></title>
+  <link href="http://thiagobrandam.github.com/blog/categories/windows/atom.xml" rel="self"/>
   <link href="http://thiagobrandam.github.com/"/>
   <updated>2013-01-07T19:17:44-02:00</updated>
   <id>http://thiagobrandam.github.com/</id>
@@ -25,7 +25,7 @@ if you use Mac OS.</p>
 <p>First, fire up Disk Utility and create a New Image.
 This new image should be in the MS-DOS (FAT) format
 and be a read/write disk image. The size should be at least 2.5 GB.
-Fill in the &#8220;Save As&#8221; field and click &#8220;Create&#8221;.
+Fill in the "Save As" field and click "Create".
 It will create a blank .dmg file.</p>
 
 <p>Now, this image should be blank, but writable. Mount the
@@ -37,7 +37,7 @@ what need to be modified.</p>
 
 <p>hdiutil makehybrid -iso -joliet -o windows_iso_with_modified_contents.iso newly_created_dmg.dmg</p>
 
-<p>This windows .iso should be ready to go, if you didn&#8217;t screw up anything.</p>
+<p>This windows .iso should be ready to go, if you didn't screw up anything.</p>
 ]]></content>
   </entry>
   
